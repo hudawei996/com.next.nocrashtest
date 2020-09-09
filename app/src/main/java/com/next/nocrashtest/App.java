@@ -7,11 +7,11 @@ import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.next.nocrashtest.applib.Cockroach;
-import com.next.nocrashtest.applib.ExceptionHandler;
-import com.next.nocrashtest.support.CrashLog;
-import com.next.nocrashtest.support.DebugSafeModeTipActivity;
-import com.next.nocrashtest.support.DebugSafeModeUI;
+import com.next.nocrashlibrary.Cockroach;
+import com.next.nocrashlibrary.ExceptionHandler;
+import com.next.nocrashlibrary.support.CrashLog;
+import com.next.nocrashlibrary.support.DebugSafeModeTipActivity;
+import com.next.nocrashlibrary.support.DebugSafeModeUI;
 
 /**
  * Created by wanjian on 2018/5/19.
