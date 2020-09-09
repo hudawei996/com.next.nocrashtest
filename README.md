@@ -1,5 +1,6 @@
 # com.next.nocrashtest
- 本项目只是因为原作者的这个库https://github.com/android-notes/Cockroach，下载下载的代码运行不了，所以拷贝下来了整理了一下，应该下载后可以运行了。
+ 本项目只是因为原作者的这个库https://github.com/android-notes/Cockroach  
+ ，下载下载的代码运行不了，所以拷贝下来了整理了一下，应该下载后可以运行了。
  需要学习这个库的童鞋可以看原作者的代码库，内容是一样的。
 
 ## Cockroach 2.0
